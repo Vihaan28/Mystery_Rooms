@@ -1,0 +1,137 @@
+#heading{
+    font-family: 'Courgette', cursive;
+    padding-top: 30px;
+    
+}
+body{
+    text-align: center;
+    background-color: black;
+    color: white !important;
+}
+#header{
+    width: 100%;
+    height: 13%;
+    background-color: #202020;
+    opacity: 0.9;
+    margin: 0;
+    position: sticky;
+    top: 5px;
+
+
+}
+
+#about{
+    bottom: 0;
+    
+}
+
+.item_footer{
+    width: 20%;
+    margin: 20px;
+}
+#top_links_div{
+    float: left;
+}
+
+#our_locations_div{
+    float: center;
+    bottom: 0;
+}
+
+hr{
+    height: 1px;
+    background-color: white;
+}
+
+#contact_form{
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 20px;
+    width: 80%;
+    height: 70%;
+    padding-top: 10px;
+}
+
+#contact_form h3{
+    color: black;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+#contact_us_main_div h1{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 50px;
+}
+
+.input_contact_form{
+    width: 200px;
+    border: solid black 2px;
+    border-radius: 5px;
+}
+
+#message_input{
+    height: 100px;
+    width: 300px;
+}
+
+.top_links{
+    color: white;
+}
+
+.top_links :hover{
+    color: white;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+
+#storyline{
+    
+    max-width: 80%;
+    word-spacing: 5;
+}
+
+#extras{
+    background-color: #660000;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+#storyline_sec{
+    height: 100%;
+    width: 100%;
+
+}
+
+#storyline_sec h1{
+    margin: 70px;
+}
+.nav_btn{
+    float: right;
+    
+    
+}
+
+#back_up{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: lightgreen;
+    float: right;
+}
+#backup_img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: lightgreen;
+    float: right;
+    text-align: center;
+    
+}
+
+#map{
+    border-radius: 10px;
+    margin-top: 10px;
+}
